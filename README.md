@@ -7,6 +7,6 @@ PC version only for now
 
 Github io page
 
-
+https://veronikavashkevich.github.io/cloud-budget-landing-page/
 
 ![screen.png](screen.png)
